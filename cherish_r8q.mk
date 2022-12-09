@@ -24,7 +24,7 @@ PRODUCT_MANUFACTURER := Samsung
 PRODUCT_MODEL := S20 Fan Edition
 
 PRODUCT_SHIPPING_API_LEVEL := 29
-PRODUCT_GMS_CLIENTID_BASE := android-samsung-ss
+PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 # Boot Animation Resolution.
 TARGET_BOOT_ANIMATION_RES := 1440
